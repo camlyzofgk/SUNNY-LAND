@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Elevator
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Fox
+  - Ground
+  - Enemy
+  - NPC
+  - Door
+  - Enemy Bullet
+  - Boss
+  - Draft
+  - Collective
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 837714877
+    locked: 0
+  - name: Mountant
+    uniqueID: 4259579367
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
